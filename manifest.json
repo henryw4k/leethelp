@@ -1,0 +1,17 @@
+{
+  "name": "Leetcode Solutions Bitch",
+  "version": "1.0",
+  "description": "Leetcode Solutions Bitch",
+
+  "content_scripts": [
+    {
+      "js": ["contents.js"],
+      "matches": [
+        "https://leetcode.com/*/solution/",
+        "https://leetcode.com/problems/*"
+      ]
+    }
+  ],
+
+  "manifest_version": 2
+}
