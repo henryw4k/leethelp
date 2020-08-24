@@ -1,7 +1,7 @@
 {
-  "name": "Leetcode Solutions Bitch",
+  "name": "leethelp",
   "version": "1.0",
-  "description": "Leetcode Solutions Bitch",
+  "description": "leethelp",
 
   "content_scripts": [
     {
